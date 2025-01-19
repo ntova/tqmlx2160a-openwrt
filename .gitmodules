@@ -1,0 +1,15 @@
+[submodule "source/meta-openembedded"]
+	path = source/meta-openembedded
+	url = https://git.openembedded.org/meta-openembedded
+[submodule "source/meta-tq"]
+	path = source/meta-tq
+	url = https://github.com/tq-systems/meta-tq.git
+[submodule "source/meta-freescale"]
+	path = source/meta-freescale
+	url = https://git.yoctoproject.org/meta-freescale
+[submodule "source/meta-openwrt"]
+	path = source/meta-openwrt
+	url = https://github.com/kraj/meta-openwrt.git
+[submodule "source/core"]
+	path = source/core
+	url = https://git.yoctoproject.org/poky
