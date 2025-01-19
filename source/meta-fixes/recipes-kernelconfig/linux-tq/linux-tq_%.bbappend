@@ -1,3 +1,3 @@
 FILESEXTRAPATHS:prepend := "${THISDIR}/${PN}:"
 
-SRC_URI += "netfilter.cfg ipset.cfg"
+SRC_URI += " file://override.cfg "
